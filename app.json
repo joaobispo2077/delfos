@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "delfos",
+    "slug": "delfos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "delfos"
+}
